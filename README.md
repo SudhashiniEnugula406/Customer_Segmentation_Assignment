@@ -6,24 +6,13 @@ This project involves the application of data science techniques for Customer Se
 
 
 # Repository Structure
-Customer_Segmentation_Assignment/
-├── EDA/
-│   ├── Sudhashini_Enugula_EDA.ipynb     # Jupyter Notebook for EDA
-│   └── Sudhashini_Enugula_EDA.pdf       # PDF Report summarizing EDA findings
-├── Lookalike_Model/
-│   ├── Sudhashini_Enugula_Lookalike.ipynb  # Jupyter Notebook for Lookalike Model
-│   └── Sudhashini_Enugula_Lookalike.csv    # Output CSV of the Lookalike Model
-└── Clustering/
-    ├── Sudhashini_Enugula_Clustering.ipynb # Jupyter Notebook for Clustering
-    └── Sudhashini_Enugula_Clustering.pdf   # PDF Report summarizing Clustering results
-
-# EDA:
+EDA:
 Sudhashini_Enugula_EDA.ipynb – Code for Exploratory Data Analysis.
 Sudhashini_Enugula_EDA.pdf – Report summarizing key insights from EDA.
-# Lookalike_Model:
+Lookalike_Model:
 Sudhashini_Enugula_Lookalike.ipynb – Code for lookalike model.
 Sudhashini_Enugula_Lookalike.csv – Results from the lookalike model.
-# Clustering:
+Clustering:
 Sudhashini_Enugula_Clustering.ipynb – Code for customer segmentation.
 Sudhashini_Enugula_Clustering.pdf – Report summarizing clustering results.
 

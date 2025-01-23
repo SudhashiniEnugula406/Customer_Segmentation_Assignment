@@ -23,8 +23,12 @@ Sudhashini_Enugula_Clustering.pdf – Report summarizing clustering results.
 
 # How to Use
 1. Clone this repository:
-git clone https://github.com/SudhashiniEnugula406/Customer_Segmentation_Assignment.git  
+git clone https://github.com/SudhashiniEnugula406/Customer_Segmentation_Assignment.git
+
+
 2.Open .ipynb files in Jupyter Notebook or VS Code.
+
+
 3.Check PDF reports for detailed insights.
 
 # Key Highlights

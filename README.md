@@ -1,9 +1,22 @@
 # Customer_Segmentation_Assignment
 
 # Overview
-This project analyzes customer data to extract insights and group customers into meaningful segments using clustering techniques.
+This project involves the application of data science techniques for Customer Segmentation using both exploratory and predictive methods. The goal is to derive actionable insights and segment customers based on their purchasing behavior and other factors.
+
+
 
 # Repository Structure
+Customer_Segmentation_Assignment/
+├── EDA/
+│   ├── Sudhashini_Enugula_EDA.ipynb     # Jupyter Notebook for EDA
+│   └── Sudhashini_Enugula_EDA.pdf       # PDF Report summarizing EDA findings
+├── Lookalike_Model/
+│   ├── Sudhashini_Enugula_Lookalike.ipynb  # Jupyter Notebook for Lookalike Model
+│   └── Sudhashini_Enugula_Lookalike.csv    # Output CSV of the Lookalike Model
+└── Clustering/
+    ├── Sudhashini_Enugula_Clustering.ipynb # Jupyter Notebook for Clustering
+    └── Sudhashini_Enugula_Clustering.pdf   # PDF Report summarizing Clustering results
+
 # EDA:
 Sudhashini_Enugula_EDA.ipynb – Code for Exploratory Data Analysis.
 Sudhashini_Enugula_EDA.pdf – Report summarizing key insights from EDA.
@@ -21,11 +34,11 @@ git clone https://github.com/SudhashiniEnugula406/Customer_Segmentation_Assignme
 3.Check PDF reports for detailed insights.
 
 # Key Highlights
-# EDA: 
+ EDA: 
                Understand customer behavior and trends.
-# Lookalike Model: 
+ Lookalike Model: 
               Predict potential customers based on existing profiles.
- # Clustering:
+  Clustering:
               Group customers for personalized marketing.
  
 # Requirements

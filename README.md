@@ -6,13 +6,18 @@ This project involves the application of data science techniques for Customer Se
 
 
 # Repository Structure
-EDA:
+1.EDA:
 Sudhashini_Enugula_EDA.ipynb – Code for Exploratory Data Analysis.
 Sudhashini_Enugula_EDA.pdf – Report summarizing key insights from EDA.
-Lookalike_Model:
+
+
+
+2.Lookalike_Model:
 Sudhashini_Enugula_Lookalike.ipynb – Code for lookalike model.
 Sudhashini_Enugula_Lookalike.csv – Results from the lookalike model.
-Clustering:
+
+
+3.Clustering:
 Sudhashini_Enugula_Clustering.ipynb – Code for customer segmentation.
 Sudhashini_Enugula_Clustering.pdf – Report summarizing clustering results.
 
